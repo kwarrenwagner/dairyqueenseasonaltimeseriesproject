@@ -18,10 +18,14 @@ To analyze and forecast seasonal search interest in Dairy Queen using time serie
 
 **Final Models Used:**
 
-Manual SARIMA: (1,1,1)(0,1,1)[12]
+Manual SARIMA: 
+SARIMA (1,1,1)(0,1,1)[12]
+
 RMSE: 8.19 | MAPE: 11.65%
 
-Auto ARIMA: (2,0,0)(0,1,1)[12]
+Auto ARIMA: 
+SARIMA (2,0,0)(0,1,1)[12]
+
 RMSE: 5.80 | MAPE: 6.99%
 
 Holt-Winters Additive:
