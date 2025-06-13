@@ -16,10 +16,13 @@ Final Models Used:
 
 Manual SARIMA: (1,1,1)(0,1,1)[12]
 RMSE: 8.19 | MAPE: 11.65%
+
 Auto ARIMA: (2,0,0)(0,1,1)[12]
 RMSE: 5.80 | MAPE: 6.99%
+
 Holt-Winters Additive:
 RMSE: 11.95 | MAPE: 15.28%
+
 
 Conclusions:
 The data exhibited strong seasonality and an increasing trend, typical of a business like Dairy Queen that peaks in popularity during the warmer months.
