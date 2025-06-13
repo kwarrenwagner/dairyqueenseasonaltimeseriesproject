@@ -1,5 +1,4 @@
-Title:
-**Forecasting Seasonal Trends for Dairy Queen Using Google Trends Data**
+# **Forecasting Seasonal Trends for Dairy Queen Using Google Trends Data**
 
 Author:
 Kenji Wagner
