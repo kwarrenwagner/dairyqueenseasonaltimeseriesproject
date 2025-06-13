@@ -29,6 +29,8 @@ RMSE: 5.80 | MAPE: 6.99%
 Holt-Winters Additive:
 RMSE: 11.95 | MAPE: 15.28%
 
+**Table of Contents**
+Thank you for reading my executive summary, if you want to read my full time series report, I have it all linked under Dairy Queen Time Series.pdf. I also have my code linked.
 
 **Conclusions:**
 
